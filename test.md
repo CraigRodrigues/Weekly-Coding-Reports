@@ -2,11 +2,13 @@
 
 ### January 07, 2017
 Redid coding personal curriculum
+
 Hack Reactor Prep
-Outlining and stubbing
-Testing/Assertions
-TDD
-Exercises (assertEquals)
+ * Outlining and stubbing
+ * Testing/Assertio
+ * TDD
+ * TDD Exercises
+
 Asked someone on Slack who went to Dev Bootcamp for good resources for Hack Reactor:
 
 Hey! Here are some additional resources that should aid you in being successful during and after bootcamp:
