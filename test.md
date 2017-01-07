@@ -1,6 +1,7 @@
-# Weekly Coding Report 99
-
+## MAIN TITLE HERE
+### Weekly Coding Report #99
 ### January 07, 2017
+
 Reorganized my _Coding Personal Curriculum_ for work I want to complete before PCA and Hack Reactor onsite.
 
 Hack Reactor Prep
@@ -57,12 +58,14 @@ https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-app
 
 Hack Reactor Prep  
 
-  Testing assert PASS/FAIL template using ES6 template literals:
-  ```
-  return `PASSED [${testName}]`;
-  return `FAILED [${testName}] - Expected "${expected}", but got "${actual}"`;
-  ```
+Quick simple testing assert PASS/FAIL message template using ES6 template literals:
+```javascript
+return `PASSED [${testName}]`;
+return `FAILED [${testName}] - Expected "${expected}", but got "${actual}"`;
+```
 
-Did this [Markdown Tutorial](www.markdowntutorial.com)
+Completed this [Markdown Tutorial](www.markdowntutorial.com)
 
-<insert chart of blogging flow>
+Blogging Flow
+
+Me :arrow_right: GitHub Markdown :arrow_right: Wordpress HTML or Ghost :arrow_right: Medium (one day) :arrow_right: Twitter
