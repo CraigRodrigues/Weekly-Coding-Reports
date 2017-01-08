@@ -92,3 +92,12 @@ Hack Reactor Prep
   - Average integers
   - Decorate student list with ages
   - Is it an isogram?
+  - Read my skeleton to understand the problem statement
+ - Here's a quick checklist of how I should approach each problem.
+  - [ ] Understand the problem first
+  - [ ] Outline and skeleton
+  - [ ] Think of test cases
+  - [ ] Write assert for those tests
+  - [ ] Create tests ==RED==
+  - [ ] Develop main function(s)
+  - [ ] Make tests pass ==GREEN==
