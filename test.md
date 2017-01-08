@@ -15,6 +15,7 @@ Hack Reactor Prep
    return `PASSED [${testName}]`;
    return `FAILED [${testName}] - Expected "${expected}", but got "${actual}"`;
    ```
+ - Should a test be made that is meant to not pass or is negative?
 
 Asked someone on Slack who went to Dev Bootcamp for good resources for Hack Reactor. She said:
 
@@ -72,3 +73,14 @@ Testing a change to my writing flow
   - Proposed Blogging Flow
     
     Me :arrow_right: GitHub Markdown :arrow_right: Wordpress HTML or Ghost :arrow_right: Medium (one day) :arrow_right: Twitter!
+
+Free Code Camp Toy Problems
+
+- Hack Reactor prep site went down so I switched to FCC algorithm 'Wherefore Art Thou'
+- I am weak at Objects and completely understanding how to search for their keys/props.
+- I understand the solution and my logic was exactly correct.
+- I am trying to never use a for loop like this again:
+```javascript
+for(let i = 0; i < arr.length; i++)
+```
+- Now that I think I understand it, I have to recall and do it again FROM SCRATCH. It's the **only** way to really beat something into my skull and learn.
