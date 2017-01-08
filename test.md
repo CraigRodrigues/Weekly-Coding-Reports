@@ -84,3 +84,11 @@ Free Code Camp Toy Problems
 for(let i = 0; i < arr.length; i++)
 ```
 - Now that I think I understand it, I have to recall and do it again FROM SCRATCH. It's the **only** way to really beat something into my skull and learn.
+
+### January 08, 2017
+
+Hack Reactor Prep
+ - Module 2 Exercises
+  - Average integers
+  - Decorate student list with ages
+  - Is it an isogram?
