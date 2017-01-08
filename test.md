@@ -92,10 +92,14 @@ Hack Reactor Prep
   - Average integers
   - Decorate student list with ages
   - Is it an isogram?
-  - Read my skeleton to understand the problem statement
-   - Their solution split out finding the max value in a hash map
-   - My tests are more rigourous. Theirs will fail if a character is uppercase.
-   - I should strive to have each function I write do **ONE THING ONLY**!
+  - Find first word with most repeated characters
+  
+      Their solution split out finding the max value in a hash map  
+      My tests are more rigourous. Theirs will fail if a character is uppercase.  
+      I should strive to have each function I write do **ONE THING ONLY**!
+    
+  - Render phone number
+  - Find longest palindrome
  - Here's a quick checklist of how I should approach each problem.
   - [ ] Understand the problem first
   - [ ] Outline and skeleton
