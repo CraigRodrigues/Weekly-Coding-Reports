@@ -109,3 +109,34 @@ Hack Reactor Prep
   - [ ] Develop main function(s)
   - [ ] Make tests pass ==GREEN==
  - I still need more work on Objects, Prototypes and Constructors. I must understand them deeply.
+
+Free Code Camp Intermediate Algorithms - **COMPLETED**
+
+- DNA Pairing (switch statements ever worth using?)
+- Wherefore Art Thou
+- Sum All Odd Fibonacci Numbers
+- Sum All Odd Primes (learned how to implement Sieve of Eratosthenes!)
+- Smallest Common Multiple (damn math research for GCD and LCM)
+- Finders Keepers
+- Drop it!
+- Steamroller
+- Binary Agents
+- Everything Be True
+- Arguments Optional
+
+### January 09, 2017
+
+Finishing up a lot of stuff in my last week of work so I didn't get much done today since I was in at 7AM and reached home at 8PM.
+
+Hack Reactor Pre-course Slack channel was opened and I joined in. Exciting!
+
+This useful tool was already shared by instructor Albrey: [http://explainshell.com/](http://explainshell.com/)
+
+Google Calendar also all setup and ready to go.
+
+Another cool article shared with me about engineers and notebooks: [Software Engineers Should Keep Lab Notebooks](https://blog.nelhage.com/2010/05/software-and-lab-notebooks/)
+
+Few good posts on Deep Work:
+
+1. [Deep Work: A welcome kick in the butt.](https://cpbotha.net/2017/01/09/deep-work-a-welcome-kick-in-the-butt/)
+2. [Quantifying and Visualizing “Deep Work”](https://medium.com/@FILWD/quantifying-and-visualizing-deep-work-af4689a62423#.3h2xlvpy7)
