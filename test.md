@@ -126,17 +126,21 @@ Free Code Camp Intermediate Algorithms - **COMPLETED**
 
 ### January 09, 2017
 
-Finishing up a lot of stuff in my last week of work so I didn't get much done today since I was in at 7AM and reached home at 8PM.
+- Finishing up a lot of stuff in my last week of work so I didn't get much done today since I was in at 7AM and reached home at 8PM.
 
-Hack Reactor Pre-course Slack channel was opened and I joined in. Exciting!
+- My copy of [Professional JavaScript for Web Developers](https://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691) arrived!
+ 
+![Professional JavaScript for Web Developers Book](https://images-na.ssl-images-amazon.com/images/I/518NO3X1X2L._SX394_BO1,204,203,200_.jpg)
 
-This useful tool was already shared by instructor Albrey: [http://explainshell.com/](http://explainshell.com/)
+- Hack Reactor Pre-course Slack channel was opened and I joined in. Exciting!
+	- This useful tool was already shared by instructor Albrey: [http://explainshell.com/](http://explainshell.com/)
+	- Google Calendar also all setup and ready to go.
 
-Google Calendar also all setup and ready to go.
+- Another cool article shared with me about engineers and notebooks: [Software Engineers Should Keep Lab Notebooks](https://blog.nelhage.com/2010/05/software-and-lab-notebooks/)
 
-Another cool article shared with me about engineers and notebooks: [Software Engineers Should Keep Lab Notebooks](https://blog.nelhage.com/2010/05/software-and-lab-notebooks/)
+- Few good posts on Deep Work:
 
-Few good posts on Deep Work:
+	1. [Deep Work: A welcome kick in the butt.](https://cpbotha.net/2017/01/09/deep-work-a-welcome-kick-in-the-butt/)
+	2. [Quantifying and Visualizing “Deep Work”](https://medium.com/@FILWD/quantifying-and-visualizing-deep-work-af4689a62423#.3h2xlvpy7)
 
-1. [Deep Work: A welcome kick in the butt.](https://cpbotha.net/2017/01/09/deep-work-a-welcome-kick-in-the-butt/)
-2. [Quantifying and Visualizing “Deep Work”](https://medium.com/@FILWD/quantifying-and-visualizing-deep-work-af4689a62423#.3h2xlvpy7)
+- I bought [iA Writer](https://ia.net/writer) and it's a great Markdown editor and I like writing in it much more than Google Docs, however it's not easily accessible across all computers/devices.
