@@ -203,7 +203,7 @@ Getting closer and closer to Hack Reactor PCA.
 	- Finished all slides for _Prerequisite Studies: Basic JavaScript, CSS, and HTML_
 	- READ: [How to Use Terminal: The Basics](http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/)
 	- COMPLETED: [Git Immersion](http://gitimmersion.com/) Labs 1 - 30
-		- ![Git Immersion](![Git Immersion](http://i.cubeupload.com/5ADNqa.png))
+		- ![Git Immersion](http://i.cubeupload.com/5ADNqa.png)
 		- I learned about tagging individual commits. You can checkout by tag name as well.
 		- Use _git reset_ to reset the staging area.
 		- USe _git amend -m_ to amend to the previous commit if there was only a minor change. This would've been a very useful command at times.
