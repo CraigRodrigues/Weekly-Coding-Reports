@@ -212,3 +212,21 @@ Getting closer and closer to Hack Reactor PCA.
 		- [The seven rules of a great git commit message](http://chris.beams.io/posts/git-commit/#seven-rules)
 		- Finished _Our Development Workflow: Git and the Command Line_
 			- Missed one question in the checkpoint because I confused where the local repo was cloned from versus the original repo. My forked repo that I will clone from is the **REMOTE** and the repo I forked originally is the **UPSTREAM**.
+			
+### January 13, 2017
+Today is my last day at work!
+
+- Hack Reactor Precourse - **TESTBUILDER**
+	- Got stuck thanks to some weird bug.
+	- People seem to be solving this problem without using very very simple default JS methods for Strings and Arrays. :confused:
+
+### January 14, 2017
+Finally free to focus 100% on coding!
+
+- Hack Reactor Precourse - **TESTBUILDER**
+	- Reading about [http://chaijs.com/](http://chaijs.com/)
+	- [Chai assertion guide](http://chaijs.com/guide/styles/#assert)
+	- [Red/Green/Refactor TDD](http://www.jamesshore.com/Blog/Red-Green-Refactor.html)
+	- Completed testbuilder. I tried to make every function do just ONE thing and it made it very easy to add to my function when yo break it down into doing one thing rather than having a bajillion if statements everywhere.
+
+![Finished Testbuilder!](http://i.imgur.com/vSu7R6y.png)
