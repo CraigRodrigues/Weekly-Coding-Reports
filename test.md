@@ -223,10 +223,73 @@ Today is my last day at work!
 ### January 14, 2017
 Finally free to focus 100% on coding!
 
-- Hack Reactor Precourse - **TESTBUILDER**
+- Hack Reactor Precourse: TESTBUILDER
 	- Reading about [http://chaijs.com/](http://chaijs.com/)
 	- [Chai assertion guide](http://chaijs.com/guide/styles/#assert)
 	- [Red/Green/Refactor TDD](http://www.jamesshore.com/Blog/Red-Green-Refactor.html)
 	- Completed testbuilder. I tried to make every function do just ONE thing and it made it very easy to add to my function when yo break it down into doing one thing rather than having a bajillion if statements everywhere.
+	- ![Finished Testbuilder!](http://i.imgur.com/vSu7R6y.png)
+- [Pro Git book](https://git-scm.com/book/en/v2)
+- Jennifer wrote a cool Medium post: [The Secret to Becoming a Better Programmer is Speaking](https://medium.com/@ratracegrad/the-secret-to-becoming-a-better-programmer-419cab4ad942#.l59kv7dxc)
+- [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.kjsiwdc51)
+- Hack Reactor Precourse: JavaScript Koans
+	- WTF you can pass strings into Function and get a function out of it?
+	- [JavaScript functions as strings as functions](http://logicmason.com/2013/javascript-functions-as-strings-as-functions/)
+	- http://javascript.crockford.com/prototypal.html
+	- Finished all koans except the Euler-esque bonus problems.
+	- [What's the difference between assertion library, testing framework and testing environment in javascript?](http://stackoverflow.com/questions/25678063/whats-the-difference-between-assertion-library-testing-framework-and-testing-e)
+	- [Unit Test Your JavaScript Using Mocha and Chai](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)
+- Hack Reactor Precourse: Debugging/Underbar Part 1
+	- identity
+	- first
+	- last
+	- each
+	- indexOf
+	- filter
+	- reject
+	- uniq
+	- map
+	- pluck
 
-![Finished Testbuilder!](http://i.imgur.com/vSu7R6y.png)
+### January 15, 2017
+- Hack Reactor Precourse: Underbar Part 2
+	- reduce
+	- contains
+	- every
+	- some
+	- extend
+	- defaults
+	- once (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+- Hack Reactor Precourse: [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
+	- Element and inspector.
+	- Updating local source file and saving it real local source.
+	- Using the debugger and catching exceptions.
+	- Breakpoints.
+	- Page Speed Google Chrome extensions.
+	- Optimizations such as minifying your JS or loading it after the CSS asynchronously.
+	- Resizing images instead of letting the browser do it. Use PNG for icons instead of JPG.
+
+### January 16, 2017
+ - Hack Reactor Precourse: Underbar
+	 - memoize
+	 - delay (learned more about using an anon callback)
+	 - shuffle ([Fisher-Yates shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle))
+ - I spent 46 hours last week coding despite it being my last week at work! Dunno how I pulled that off.
+ - Feeling sick. All stuffed up and coughing. Best thing ever for first day of Precourse.
+ - Installed Floobits.
+ - Hack Reactor Precourse: Javascript Koans Bonus Problems
+	 - Find largest palindrome of two 3 digit numbers.
+	 - Wrote tests for the rest of the bonus functions (should've done this first).
+	 - Finished all Extra Credit problems (all project Euler problems or very similar to them).
+ - Toy Problems for the next two weeks (1-2 hours a day)
+	 - I will run through Coderbyte (or similar) and use Haseeb's method to get high level with the solutions.
+	 - Write out in plain english how I would solve the problem.
+	 - Check solution. If my logic differs (greatly) from the optimal solution provided then I will go back and deeply understand the solution.
+	 - Re-implement that solution from scratch.
+ - Course: [Advanced Javascript](https://frontendmasters.com/courses/advanced-javascript/)
+	 - Scope
+	 - Negatives of anonymous function expressions
+	 - Lexical scope
+	 - Nested scope
+	 - Eval keyword & With keyword
+	 - IIFEs
