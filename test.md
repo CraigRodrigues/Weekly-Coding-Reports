@@ -286,10 +286,122 @@ Finally free to focus 100% on coding!
 	 - Write out in plain english how I would solve the problem.
 	 - Check solution. If my logic differs (greatly) from the optimal solution provided then I will go back and deeply understand the solution.
 	 - Re-implement that solution from scratch.
- - Course: [Advanced Javascript](https://frontendmasters.com/courses/advanced-javascript/)
-	 - Scope
-	 - Negatives of anonymous function expressions
-	 - Lexical scope
-	 - Nested scope
-	 - Eval keyword & With keyword
-	 - IIFEs
+	 
+- Course: [Advanced Javascript](https://frontendmasters.com/courses/advanced-javascript/)
+ - Scope
+ - Negatives of anonymous function expressions
+ - Lexical scope
+ - Nested scope
+ - Eval keyword & With keyword
+ - IIFEs
+	 
+- Hack Reactor: Precourse Accept Class #1
+ - Opening lecture on expectations and the assessment (only 50% pass - no second chance).
+ - Advanced JavaScript II - Scope
+ - Advanced JavaScript II - Execution Contexts
+ - Advanced JavaScript II - Contexts & Objects (a little confusing)
+ - Advanced JavaScript II - Closures (setInterval is different than setTimeout. Interval is continuously called)
+ - Undefined + Number = NaN
+ - Refactored detectNetwork to use objects instead of functions all over the global space.
+ - Refactored underbar functions map and filter using reduce.
+ - I think it's best to use the parameters accumulator and current when using reduce. I find it best to do that when it comes to understanding how reduce works. It is such a damn powerful function.
+ - ``` array.reduce(function(accum, curr) { return accum.concat(curr); }, [])' ```
+ - The first parameter is the accumulator unless we pass in an accumulator which can be an object like an array!
+ - Actually maybe it is better to use prev & curr since you don't always have to return the accumulator, you can disregard that and return something else entirely.
+ - Reduce makes my brain hurt.
+
+### January 17, 2017
+- Advanced JavaScript
+	- Block scope and 'let'
+	- Problems with 'let'
+	- Dynamic scope
+	- Hoisting (let does not hoist!)
+	- The 'this' keyword
+		- Implicit binding
+		- Default binding
+		- Explicit binding (call or apply)
+		- Hard binding (using 'bind')
+		- The 'new' keyword
+
+![Advanced JavaScript - 4 rules for this](http://i.imgur.com/EDFcg1g.jpg)
+
+- Hack Reactor Precourse: Underbar
+	- invoke
+	- sortBy
+	- zip
+	- flatten
+	- intersection
+	- difference
+- CS50 Video: [Command Line](https://www.youtube.com/watch?v=poT5Yd0Ag8I)
+- Hack Reactor Precourse: [HTML & CSS](http://learn.shayhowe.com/html-css/)
+	- Building Your First Web Page
+	- [CSS Terms and Definitions](https://www.impressivewebs.com/css-terms-definitions/)
+	- Getting to Know HTML
+![Building HTML page structure](http://learn.shayhowe.com/assets/images/courses/html-css/getting-to-know-html/building-structure.png)
+	- Getting to Know CSS
+	- Opening the Box Model (**Every element on a page is a rectangular box.**)
+![Box Model](http://learn.shayhowe.com/assets/images/courses/html-css/opening-the-box-model/box-model.png)
+- Hack Reactor: Precourse Accept Class #2
+	- Readiness Assessment Expectations.
+	- Implemented max and min in underbar.
+	- HTML/CSS: Positioning Content
+	- HTML/CSS: Working with Typography
+	- Code School CSS Cross Country Level 1-4
+- Code School: Regex Course
+
+### January 18, 2017
+#### Coderbyte Toy Problems
+<br>
+<br>
+[Subset Sum Problem](https://coderbyte.com/algorithm/subset-sum-problem)
+
+Easy to brute force, however a Dynamic Programming solution is explained in the video and it's insane.
+
+[Second Great Low](https://coderbyte.com/solution/Second%20GreatLow)
+
+Here I would create a set from the original array and then pass that Set object back into an array. Sort that new unique set array and from lowest to highest. Then return the 1st index and the value in the [last index - 1] (assuming there are at least two values). If there is only one value then return index [0] for both.
+
+[Division Stringified](https://coderbyte.com/solution/Division%20Stringified)
+
+On this problem you would take the ceiling of (num1 / num2) to get the answer in the regular format. From here you need to convert the number to a string and put that string into an array of char numbers.
+
+Also at this point it's possible to just stringify the number to '123456' and use regex to add in commas at the correct points. Without regex I would take 12346 and make it ['1', '2', '3', '4', '6']. Reverse this array to ['6', '4', '3', '2', '1'] and then have a loop and counter than after 3 numbers have been passed it will splice in a ',' character.
+
+Once the end has been reached we reverse the array again ['1', '2', ',', '3', '4', '6'] which we join into the final result of 12,346.
+
+Solution Review: It looks like the solution used Math.round instead of Math.ceiling so I messed that part up. Also see [this StackOverflow post](http://stackoverflow.com/questions/18754109/regular-expression-to-insert-using-replace-method-in-javascript) about using regex to insert the commas. ```/\B(?=(\d{3})+$)/g```
+
+#### CodeSchool: Try jQuery
+
+1. Introduction to jQuery
+2. Traversing the DOM
+3. Working with the DOM
+4. Listening to DOM events
+5. Styling/Animation
+
+#### Hack Reactor Precourse: Twittler
+- Forked the repo and took a look. I want to get a deep understanding of how the data is generated so I will take 1-2 hours to read over that code and understand it.
+- Once I understand the code I will make a list of reqs and maybe even put some tests in there if I'm really feisty.
+- Only once all functionality has been completed will I being to style my page.
+- My wishlist is really I want the page to:
+	1. Automatically refresh the tweets and alert the user as to how many new tweets they have.
+	2. The user clicks a button to see the new tweets.
+	3. A user should be able to add their own tweets.
+	4. A user should be able to see all the tweets for a person by clicking their profile name (user stream).
+	5. Each tweet should have a timestamp.
+	6. Each tweet should have a 'seconds ago' feature.
+	7. Show a user profile picture and number of tweets they have created.
+	8. Show a worldwide trends list depending on the hashtag counts.
+	9. Have a 'refresh now' button to instantly refresh rather than waiting.
+	10. I want each user to have a small avatar icon of their actual face.
+	11. I want moused-over tweets to be highlighted.
+	12. I want there to be "endless scroll" functionality
+	13. Chocobo Icon and favicon
+	14. Click hashtag and only show tweets that have that hashtag
+	15. Have the title update showing the number of unread tweets. Example (50) Twittler
+	16. Click a tweet to pop it out.
+	17. Implement a simple search.
+	18. Click a hashtag and only show tweets with those hashtags
+
+- Helped out a fellow student for an hour or two working through some underbar problems involving reduce. I had never pair programmed before and it was fun. I tried my best to steer towards understanding why something wasn't working rather than giving out an answer.
+- I got much better understanding of closures because of my pairing.
